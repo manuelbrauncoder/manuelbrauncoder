@@ -2,7 +2,7 @@
 
 <p>Welcome to my Github Profile! </br> I'm Manuel, Frontend Developer from 🇩🇪 <b>Partenstein, Germany</b></p>
 
-<h3>I am working with:</h3>
+<h3>My Skills are:</h3>
 <p>
   <img alt="angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -17,9 +17,9 @@
 </p>
 
 ### I'm currently working on improving my skills. Stay tuned for updates!
-## Check out my <a href="https://manuel-braun.net/">Portfolio</a>, to see my skills in action.
+## Check out my <a href="https://manuel-braun.net/">Portfolio</a>, to see my abilities in action.
 
-<h3>find me on:</h3>
+<h3>Find me on:</h3>
   <a href="https://www.linkedin.com/in/manuel-braun-8ab6b52b7/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a target="_blank" href="https://github.com/manuelbrauncoder"><img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   
