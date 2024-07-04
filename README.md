@@ -20,7 +20,7 @@
 ## Check out my <a href="https://manuel-braun.net/">Portfolio</a>, to see my skills in action.
 
 <h3>find me on:</h3>
-  <a href="www.linkedin.com/in/manuel-braun-8ab6b52b7"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/manuel-braun-8ab6b52b7/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a target="_blank" href="https://github.com/manuelbrauncoder"><img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   
   
