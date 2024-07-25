@@ -16,7 +16,6 @@
   <img alt="macos" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" /> 
 </p>
 
-### I'm currently working on improving my skills. Stay tuned for updates!
 ## Check out my <a href="https://manuel-braun.net/">Portfolio</a>, to see my abilities in action.
 
 <h3>Find me on:</h3>
