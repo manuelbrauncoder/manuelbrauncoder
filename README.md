@@ -16,6 +16,8 @@
   <img alt="macos" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" /> 
 </p>
 
+### Currently, I am working on a Community Project. A Messenger like Slack or Discord. Build with Angular and Firebase. <a href="https://github.com/manuelbrauncoder/DA-Bubble">Click</a>
+##
 ## Check out my <a href="https://manuel-braun.net/">Portfolio</a>, to see my abilities in action.
 
 <h3>Find me on:</h3>
