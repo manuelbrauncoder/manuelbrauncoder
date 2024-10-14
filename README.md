@@ -16,7 +16,7 @@
   <img alt="macos" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" /> 
 </p>
 
-### My newest project: A Messenger like Slack, build in a team of 3 Developers with Angular 18, TypeScript and Google Firebase <a href="https://da-bubble.manuel-braun.net/login">Live test</a> 
+### My newest project: A Messenger like Slack, build in a team of 3 Developers with Angular 18, TypeScript and Google Firebase => <a href="https://da-bubble.manuel-braun.net/login">Live test</a> 
 ##
 ## Check out my <a href="https://manuel-braun.net/">Portfolio</a>, to see my abilities in action.
 
