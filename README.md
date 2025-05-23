@@ -24,7 +24,11 @@
 
 ###
 
-<div align="center">
+## Check out my <a href="https://manuel-braun.net/">Portfolio</a>, to see my abilities in action.
+
+###
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manuelbrauncoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -36,9 +40,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/manuelbrauncoder/manuelbrauncoder/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-## Check out my <a href="https://manuel-braun.net/">Portfolio</a>, to see my abilities in action.
 
 <h3>Find me on:</h3>
   <a href="https://www.linkedin.com/in/manuel-braun-8ab6b52b7/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
