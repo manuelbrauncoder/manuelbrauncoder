@@ -14,6 +14,7 @@
   <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
   <img alt="macos" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" /> 
+  <img alt="vscode" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" />
 </p>
 
 ### My latest project: A Messenger like Slack, built by a team of 3 developers using Angular 18, TypeScript and Google Firebase => <a href="https://da-bubble.manuel-braun.net/login">Live test</a> 
