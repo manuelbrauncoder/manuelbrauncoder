@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my Github Profile! </br> I'm Manuel, Frontend Developer from 🇩🇪 <b>Partenstein, Germany</b></p>
+<p>Currently i am working with Angular for Web Frontend Development and Swift/Swift UI for iOS Development</p>
 
 <h3>My Skills are:</h3>
 <p>
@@ -21,8 +22,6 @@
   
 </p>
 
-### My latest project: A Messenger like Slack, built by a team of 3 developers using Angular 18, TypeScript and Google Firebase => <a href="https://da-bubble.manuel-braun.net/login">Live test</a> 
-##
 ## Check out my <a href="https://manuel-braun.net/">Portfolio</a>, to see my abilities in action.
 
 <h3>Find me on:</h3>
