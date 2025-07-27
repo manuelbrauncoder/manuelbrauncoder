@@ -24,8 +24,6 @@
 
 ###
 
-## Check out my <a href="https://manuel-braun.net/">Portfolio</a>, to see my abilities in action.
-
 ###
 
 <div align="left">
