@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Manuel Braun – Software Developer</title>
+  <desc id="desc">Frontend focus with Angular, TypeScript and Node.js. manuel-braun.net</desc>
+
+  <style>
+    .sans { font-family: "Avenir Next", "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+    .name { font-size: 64px; font-weight: 500; fill: #f4f6f8; letter-spacing: -0.5px; }
+    .headline { font-size: 30px; font-weight: 500; fill: #f4f6f8; }
+    .subline { font-size: 22px; fill: #b9c3cc; }
+    .meta { font-size: 19px; fill: #b9c3cc; }
+    .link { font-size: 19px; fill: #f4f6f8; }
+    .glyph { font-family: "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 150px; font-weight: 600; fill: #2f6f7e; }
+  </style>
+
+  <!-- Hintergrund wie der Kopf des Lebenslaufs -->
+  <rect width="1280" height="320" rx="16" fill="#27313b" />
+
+  <!-- Markenzeichen der Website, dezent in Petrol -->
+  <text class="glyph" x="1180" y="212" text-anchor="end" opacity="0.55">&lt;/&gt;</text>
+
+  <!-- Name und Berufsbezeichnung -->
+  <text class="sans name" x="80" y="112">Manuel Braun</text>
+  <text class="sans headline" x="80" y="160">Software Developer</text>
+  <text class="sans subline" x="80" y="196">Frontend focus · Angular · TypeScript · Node.js</text>
+
+  <!-- Trennlinie und Kontaktzeile, wie im Lebenslauf -->
+  <rect x="80" y="226" width="640" height="1" fill="#ffffff" opacity="0.25" />
+  <text class="sans meta" x="80" y="266">Spessart region, Germany</text>
+  <text class="sans link" x="360" y="266">manuel-braun.net</text>
+</svg>
